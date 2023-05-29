@@ -87,6 +87,7 @@ This project was inspired by the need for a reusable and TypeScript-friendly tab
 
 ## Contact
 
-If you have any questions or inquiries, feel free to contact the project maintainer at [email@example.com](mailto:email@example.com).
+If you have any questions or inquiries, feel free to contact the project maintainer at [afinasgarli0@gmail.com
+](afinasgarli0@gmail.com).
 
 Thank you for using the React TypeScript Table component!
