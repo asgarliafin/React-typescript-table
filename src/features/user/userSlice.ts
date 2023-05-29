@@ -2,7 +2,9 @@ import { createSlice, createAsyncThunk, PayloadAction } from '@reduxjs/toolkit';
 import { RootState } from '../../store/store';
 import { getUsers } from '../../services/api';
 
-interface User {
+
+
+export interface User {
   id: number;
   username: string;
   email: string;
